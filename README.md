@@ -1,4 +1,4 @@
-# 📦 Project Title: Digit Classification with Bounding Box Prediction
+# 📦 Project Title: Digit Classification with Bounding Box Prediction(Text Detection)
 
 ## 📖 Overview
 
